@@ -1,3 +1,5 @@
 Este es un archivo de ejemplo.
 
-Estas tres primeras líneas estaban escritas inicialmente.
+Estas tres primeras lÃ­neas estaban escritas inicialmente.
+
+Esta es una copia local
